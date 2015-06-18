@@ -1,0 +1,26 @@
+#asdnav{
+  padding-right: 50px;
+  padding-left: 85px;
+  margin: 0px 0px 0px 0px;
+  background-color: rgb(135, 188, 211);
+  position: fixed;
+  top: 0px;
+  left: 10px;
+  right: 0px;
+  z-index: 5;
+}
+
+
+#banner{
+	font-size: 23px;
+	color: #100F0F;
+	font: bold;
+}
+
+#tabs{
+	font-size: 18px;
+}
+
+li{
+	color: color: #4A3C3C;
+}
