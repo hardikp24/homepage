@@ -49,3 +49,29 @@ li{
 	padding: 10px;
   margin: 23px 0px 0 0px;
 }
+
+#marginX{
+	  margin-top: 16px
+}
+
+#social{
+	background-image: url('b.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 450px;
+}
+
+#img2{
+	background-image: url('city.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
+
+.move{
+	margin-top: 20px;
+}
+
+.panelHeading{
+	text-align: center;
+}
