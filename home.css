@@ -38,3 +38,14 @@ li{
   padding-left: 200px;
   font-size: 21px;
 }
+
+.avatar{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.box{
+
+	padding: 10px;
+  margin: 23px 0px 0 0px;
+}
